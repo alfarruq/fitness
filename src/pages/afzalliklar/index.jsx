@@ -146,7 +146,7 @@ function Afzalliklar() {
                 <div>
                     <h4>КОНТАКТЫ</h4>
                     <p>Политика конфиденциальности</p>
-                    <p>I brohimkomiljonov18@gmail.com</p>
+                    <p>Ibrohimkomiljonov18@gmail.com</p>
                 </div>
 
                 <div>
