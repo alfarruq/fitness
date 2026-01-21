@@ -1,0 +1,52 @@
+.fazliddinul {
+    display: flex;
+    gap: 114px;
+    margin-top: 14px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.flag {
+    width: 30px;
+    height: 20px;
+    object-fit: cover;
+}
+
+
+.fazliddinheader {
+    display: flex;
+    align-items: center;
+}
+
+
+.contayner {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.fazliddin {
+    display: flex;
+    justify-content: space-between;
+    
+    gap: 84px;
+}
+
+
+.fbutton  {
+    
+    width: 238px;
+    height: 36px;
+    opacity: 1;
+    top: 88px;
+    left: 1110px;
+    padding-top: 9px;
+    padding-right: 40px;
+    padding-bottom: 9px;
+    padding-left: 40px;
+    gap: 10px;
+    border: none;
+    background-color: cornflowerblue;
+
+}
+

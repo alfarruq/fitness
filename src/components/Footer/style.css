@@ -1,0 +1,34 @@
+.fazliddinbg {
+    background: #01AEE7;
+    width: 1440px;
+    height: 383px;
+    top: 4662px;
+    display: flex;
+    padding: 100px;
+    padding-top: 44px;
+    gap: 144px;
+}
+
+.kamoliddin {
+    width: 259px;
+    height: 40px;
+
+    top: 4706px;
+    left: 1098px;
+
+}
+
+h4{
+    color: white;
+}
+
+li{
+    color: white;
+    list-style: none;
+    margin: 13px;
+}
+
+ul{
+    margin-top: 31px;
+    
+}
