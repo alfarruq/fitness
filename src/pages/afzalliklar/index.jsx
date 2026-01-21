@@ -21,7 +21,6 @@ import './style.css'
 
 function Afzalliklar() {
     return <>
-        <h3>Afzalliklar</h3>
         <main className=''>
             <section className='sectionI'>
                 <div className="afzalliklar-text">
